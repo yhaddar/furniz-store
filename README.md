@@ -1,4 +1,5 @@
 
+
 # Furniz Store
 Furniture store with worldwide delivery
 ## Screenshots
@@ -23,11 +24,6 @@ npm start
 **Front-end:** React, Sass
 
 
-## Support
-
-For support, email youssefhaddar9@gmail.com.
-
-
 ## Used By
 
 used by : 
@@ -40,4 +36,9 @@ used by :
 - [@instagram](https://www.instagram.com/_yussef_h1/)
 
 
+
+
+## Support
+
+For support, email youssefhaddar9@gmail.com.
 
