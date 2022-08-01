@@ -15,7 +15,6 @@ Furniture store with worldwide delivery
 ```
 cd furniz
 npm start
-
 ```
 
 
